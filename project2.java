@@ -1,3 +1,5 @@
+//This program creates a deck of cards and uses the cards to play a game of tableau
+
 import java.util.Random;
 
 final class Card{
