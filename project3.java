@@ -1,4 +1,5 @@
 //Burhan Hamid
+//This program implements a Hashtable and uses a BST to handle collisions
 
 
 
